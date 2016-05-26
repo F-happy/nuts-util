@@ -1,0 +1,19 @@
+{
+  "name": "nuts-util",
+  "version": "1.0.0",
+  "description": "this is develop tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-happy/nuts-util.git"
+  },
+  "author": "jonnyf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F-happy/nuts-util/issues"
+  },
+  "homepage": "https://github.com/F-happy/nuts-util#readme"
+}
