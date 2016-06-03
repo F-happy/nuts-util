@@ -7,5 +7,7 @@ module.exports = {
     getURL: require('./lib/getURL'),
     cleanLayout: require('./lib/cleanLayout'),
     addCNZZ: require('./lib/addCNZZ'),
-    regexp: require('./lib/regexp')
+    regexp: require('./lib/regexp'),
+    replaceAll: require('./lib/replaceAll'),
+    trim: require('./lib/trim')
 };
