@@ -6,5 +6,6 @@ module.exports = {
     jsonp: require('./lib/jsonp'),
     getURL: require('./lib/getURL'),
     cleanLayout: require('./lib/cleanLayout'),
-    addCNZZ: require('./lib/addCNZZ')
+    addCNZZ: require('./lib/addCNZZ'),
+    regexp: require('./lib/regexp')
 };
