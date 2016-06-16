@@ -9,5 +9,8 @@ module.exports = {
     addCNZZ: require('./lib/addCNZZ'),
     regexp: require('./lib/regexp'),
     replaceAll: require('./lib/replaceAll'),
-    trim: require('./lib/trim')
+    trim: require('./lib/trim'),
+    dom: require('./lib/dom'),
+    setCook: require('./lib/setCookie'),
+    getCook: require('./lib/getCookie')
 };
