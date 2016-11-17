@@ -23,6 +23,7 @@ $ npm install --save-dev nuts-util
 * getCook: 获取 cookie。
 * event:  一个简单的事件工具。
 * Interpreter:  一个统计元素路径的解析器。
+* detectVisible: js 防抖动节流器
 
 ### PS：
 具体使用方法请看对应文件中的说明或者注释。
