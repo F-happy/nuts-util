@@ -1,6 +1,7 @@
 # nuts-util
-[![npm](https://img.shields.io/npm/v/nuts-util.svg?maxAge=2592000?style=flat)](https://www.npmjs.com/package/nuts-util)
-[![npm](https://img.shields.io/npm/l/nuts-util.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/nuts-util)
+[![npm](https://img.shields.io/npm/v/nuts-util.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.com/package/nuts-util)
+[![npm](https://img.shields.io/npm/l/nuts-util.svg?maxAge=2592000&style=flat-square)](https://www.npmjs.com/package/nuts-util)
+[![npm](https://img.shields.io/npm/dt/nuts-util.svg?style=flat-square)](https://www.npmjs.com/package/nuts-util)
 > 这里存放的是平时常用到的方法集合，以及偶尔想到的方法。
 
 > 这里的所有方法都是基于 ES6 的语法，需要预编译后才能使用。
