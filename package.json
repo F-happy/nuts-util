@@ -1,6 +1,6 @@
 {
   "name": "nuts-util",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "this is develop tools",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/F-happy/nuts-util#readme",
   "devDependencies": {
-    "wishbao": "^3.0.4"
+    "wishbao": "^3.2.3"
   }
 }
