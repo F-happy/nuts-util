@@ -27,6 +27,7 @@ $ npm install --save-dev nuts-util
 * detectVisible: js 防抖动节流器
 * promise_finally_polyfill: promise finally 的补丁
 * textShort: 字符串截取函数
+* timeoutPromise: fetch 设置超时方法
 
 ### PS：
 具体使用方法请看对应文件中的说明或者注释。
