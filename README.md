@@ -27,6 +27,10 @@ $ npm install --save-dev nuts-util
 * detectVisible: js 防抖动节流器
 * promise_finally_polyfill: promise finally 的补丁
 * textShort: 字符串截取函数
+* timeoutPromise: fetch 设置超时方法
+* assign: Object.assign 的 Polyfill
+* camelize: 用于 css 的 camalCase 转换
+* dasherize: 用于 css 的 camalCase 逆转换
 
 ### PS：
 具体使用方法请看对应文件中的说明或者注释。
