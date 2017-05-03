@@ -14,5 +14,6 @@ module.exports = {
     dom: require('./lib/dom'),
     setCookie: require('./lib/setCookie'),
     getCookie: require('./lib/getCookie'),
-    event: require('./lib/event')
+    event: require('./lib/event'),
+    commafy: require('./lib/commafy')
 };

@@ -31,6 +31,8 @@ $ npm install --save-dev nuts-util
 * assign: Object.assign 的 Polyfill
 * camelize: 用于 css 的 camalCase 转换
 * dasherize: 用于 css 的 camalCase 逆转换
+* is_driver: 前端的一些设备判断代码
+* commafy: js 实现千分符
 
 ### PS：
 具体使用方法请看对应文件中的说明或者注释。
